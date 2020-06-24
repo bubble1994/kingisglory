@@ -1,5 +1,6 @@
 package com.lzc.kingisglory.user;
 
+import com.lzc.controller.UserController;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
