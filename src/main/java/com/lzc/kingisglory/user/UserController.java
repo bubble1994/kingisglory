@@ -20,4 +20,11 @@ public class UserController {
         i++;
         return "hello " + i;
     }
+
+
+    @RequestMapping("/hello2")
+    public String hello2() {
+        i++;
+        return "hello 是假的啦 " + i;
+    }
 }
