@@ -1,4 +1,4 @@
-package com.lzc.kingisglory.user;
+package com.lzc;
 
 import com.lzc.controller.UserController;
 import org.springframework.beans.BeansException;
